@@ -33,15 +33,15 @@ To run the JavaScript files and see the output in your console, follow these ste
 ## Repository Overview 🌟
 
 - **Chapter 1**: Introduction
-    - `chapter1_exercise.js`
+    - `chapter1 > variables.js`
 - **Chapter 2**: Program Structure
-    - `chapter2_exercise.js`
+    - `chapter2 > variables.js`
 - **Chapter 3**: Functions
-    - `chapter3_exercise.js`
+    - `chapter3 > variables.js`
 - **Chapter 4**: Data Structures: Objects and Arrays
-    - `chapter4_exercise.js`
+    - `chapter4 > variables.js`
 - **Chapter 5**: Higher-order Functions
-    - `chapter5_exercise.js`
+    - `chapter5 > functions.js`
 - *...and more!*
 
 ## Contributions 🤝
